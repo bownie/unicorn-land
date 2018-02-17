@@ -1,0 +1,16 @@
+/*
+.background-unicorn {
+    background-image: url("assets/magical-background.jpg")
+}
+*/
+
+/*
+#unicorn {
+    width: 200px;
+    height: 188px;
+    background: url('../assets/jumping-unicorn-right.jpg') 0 0;
+}*/
+
+body {
+    background-color: darkblue;
+}
